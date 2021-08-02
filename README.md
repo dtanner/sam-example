@@ -9,3 +9,4 @@ But there's also a unit test that implements the functional interface using a la
 Find Usages.
 
 
+![Sample Find Usages](https://github.com/dtanner/sam-example/blob/main/sam-example-find-usages.png)
