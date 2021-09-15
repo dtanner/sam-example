@@ -5,7 +5,7 @@ implementations.
 In this example, ThingerService implements the Thinger functional interface.
 Find usages finds that successfully.
 
-But there's also a unit test that implements the functional interface using a lambda, and it is not shows in 
+But there's also a unit test that implements the functional interface using a lambda, and it is not shown in 
 Find Usages.
 
 
